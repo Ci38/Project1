@@ -31,7 +31,6 @@ class main
             $page->post();
         }
     }
-
 }
 
 abstract class page
